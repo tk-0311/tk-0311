@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tk-0311.
 - 👀 I’m interested in Quantum Computing.
-- 🌱 I’m currently learning HTML, Javascript, css, c++.
+- 🌱 I’m currently learning HTML, Javascript, css, c++, kubernetes, dockers, argocd
 - 💞️ I was recently accepted into Codesmith.
 - 📫 How to reach me 
 
