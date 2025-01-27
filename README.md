@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @tk-0311.
 - 👀 I’m interested in Quantum Computing.
-- 🌱 I’m skilled in HTML, JavaScript, TypeScript, React, React-Router, Redux (Redux-toolkit), Node.JS, Express.JS, css/sass, SQL (PostgreSQL), NO-SQL (MongoDB), c++, Docker, Argocd, Nginx. NeoVim
-- 💞️ I was recently accepted into Advanced software engineer immersive residency program.
-- enlighten me on VMWARE ESXI 8 vs Proxmox
+- 🌱 I’m skilled in HTML, JavaScript, TypeScript, c++, Java, React, React-Router, Redux (Redux-toolkit), Node.JS, Express.JS, css/sass, SQL (PostgreSQL), NO-SQL (MongoDB),  Docker, Argocd, Nginx.
+- 💞️ currently studying Computer Science and Mathematics in Columbia University.
+- 💞️ I finished Advanced software engineer immersive residency program.
+- enlighten me on VMWARE ESXI vs Proxmox
 - 📫 How to reach me 
  timothykwon0311@gmail.com | <a href=linkedin.com/in/timothy-m-kwon>linkedin</a>
 <!---
